@@ -1,6 +1,6 @@
 # [Allana] <img src="https://i.gifer.com/origin/6a/6a215df49524df23bbb9ebbd2da7b45f_w200.webp">
 
-Eu sou <strong>Allana</strong>, <strong>tenho 18 ano e estou começando a área de tecnologia</strong> 👨🏻‍💻 
+Eu sou <strong>Allana</strong>, <strong>tenho 18 anos e estou começando a área de tecnologia</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Análise e Desenvolvimento de Sistemas</strong> 
 - 💬 Pergunte-me sobre: <strong>Musicas, jogos, séries</strong>
